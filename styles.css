@@ -27,8 +27,8 @@ body{
     
     text-align: left;
     border-top: 5px solid  hsl(0, 78%, 62%);
-    width: 20%;
-    height: 25%;
+    width: 25%;
+    height: 35%;
     box-shadow: 5px 10px 8px #ccc9c9;
     border-radius: 5px;
     padding-left: 15px;
@@ -43,14 +43,14 @@ body{
     margin: auto;
     text-align: left;
     border-top: 5px solid  hsl(180, 62%, 55%);
-    width: 20%;
-    height: 25%;
+    width: 25%;
+    height: 35%;
     box-shadow: 5px 10px 8px #ccc9c9;
     border-radius: 5px;
     padding-left: 15px;
     padding-right: 15px;
     position:absolute;
-    margin-left:15%;
+    margin-left:10%;
     margin-top:10%
     
   }
@@ -58,28 +58,28 @@ body{
     margin: auto;
     text-align: left;
     border-top: 5px solid  hsl(34, 97%, 64%);
-    width: 20%;
-    height: 25%;
+    width: 25%;
+    height: 35%;
     box-shadow: 5px 10px 8px #ccc9c9;
     border-radius: 5px;
     padding-left: 15px;
     padding-right: 15px;
     position:absolute;
     margin-left:40%;
-    margin-top:15%
+    margin-top:20%
   }
   .caja4{
     margin: auto;
     text-align: left;
     border-top: 5px solid  hsl(212, 86%, 64%);
-    width: 20%;
-    height: 25%;
+    width: 25%;
+    height: 35%;
     box-shadow: 5px 10px 8px #ccc9c9;
     border-radius: 5px;
     padding-left: 15px;
     padding-right: 15px;
     position:absolute;
-    margin-left:65%;
+    margin-left:70%;
     margin-top:10%
   }
   h4{
@@ -88,4 +88,5 @@ body{
   img{
     margin-left: 80%;
     position: relative;
+    display: block;
   }
